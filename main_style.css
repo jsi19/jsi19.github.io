@@ -915,13 +915,13 @@ menu
 }
 
 .card1 {
-  background-image: url(../images/menu-item-01.jpg);
+  background-image: url("https://s3-media0.fl.yelpcdn.com/bphoto/7D_gCMYITJNlf4dELF2d-Q/o.jpg");
 }
 .card2 {
-  background-image: url(../images/menu-item-02.jpg);
+  background-image: url("https://s3-media0.fl.yelpcdn.com/bphoto/NwOowVtZuuHQ-hktvhk9ag/o.jpg");
 }
 .card3 {
-  background-image: url(../images/menu-item-03.jpg);
+  background-image: url("https://s3-media0.fl.yelpcdn.com/bphoto/i7GPvP0-UMTWPbaC2iH_dA/o.jpg");
 }
 
 .info {
