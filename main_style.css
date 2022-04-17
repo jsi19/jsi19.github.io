@@ -907,8 +907,8 @@ menu
 
 .card {
   margin: 0 auto;
-  min-widthh: 800px;
-  min-height: 400px;
+  width: 100%;
+  height: auto;
   overflow: hidden;
   background-size: cover;
   background-repeat: no-repeat;
