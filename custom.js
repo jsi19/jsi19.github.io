@@ -79,7 +79,7 @@
 
 
 	$('.owl-menu-item').owlCarousel({
-		items:5,
+		items:3,
 		loop:true,
 		dots: true,
 		nav: true,
