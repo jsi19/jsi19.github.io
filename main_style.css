@@ -100,6 +100,12 @@ p {
   color: #2a2a2a;
 }
 
+p1 {
+  font-size: 20px;
+  line-height: 25px;
+  color: #2a2a2a;
+}
+
 /* 
 ---------------------------------------------
 global styles
