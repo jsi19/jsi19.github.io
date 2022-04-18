@@ -674,12 +674,12 @@ banner
 #top .left-content h4 {
   font-family: 'Architects Daughter';
   color: #fff;
-  font-size: 54px;
+  font-size: 2vw;
   font-weight: 700;
 }
 
 #top .left-content h6 {
-  font-size: 15px;
+  font-size: 0.5vw;
   text-transform: uppercase;
   font-weight: 600;
   color: #fff;
