@@ -248,6 +248,9 @@ header
 }
 
 .header-area .main-nav .logo {
+  width:100%; 
+  height:auto; 
+  max-width:300px;
   line-height: 100px;
   color: #fff;
   font-size: 28px;
